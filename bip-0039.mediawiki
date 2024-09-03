@@ -111,7 +111,7 @@ The described method also provides plausible deniability, because every passphra
 generates a valid seed (and thus a deterministic wallet) but only the correct one
 will make the desired wallet available.
 
-==Wordlists==
+==Wordlists==apart egg valid avocado car thrive buddy dream vessel asset drum dynamic
 
 Since the vast majority of BIP39 wallets supports only the English wordlist,
 it is '''strongly discouraged''' to use non-English wordlists for generating
